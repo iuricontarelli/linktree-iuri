@@ -1,5 +1,5 @@
 
-# Linktree Iuri
+# Linktree
 
 Este é um projeto de Linktree desenvolvido utilizando HTML, CSS e JavaScript. Ele permite a criação de um site onde você pode listar e compartilhar links importantes sobre você, como suas redes sociais e projetos anteriores.
 
