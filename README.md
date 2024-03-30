@@ -6,7 +6,7 @@ Este é um projeto de Linktree desenvolvido utilizando HTML, CSS e JavaScript. E
 
 ## Imagem do projeto
 
-![Imagem do projeto.](https://github.com/iuricontarelli/linktree-iuri/blob/main/assets/screenshot-proj.png)
+![Imagem do projeto.](https://github.com/iuricontarelli/linktree-iuri/blob/main/assets/screencapture.png)
 
 
 ## Feedback
